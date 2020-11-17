@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "TIMETOWORK";
+  src: url("fuentes/TIMETOWORK.otf");
+}
+body{
+	background:#FBFCFC ;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.navbar{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.caja1{
+	background-color: none;
+	width: 100%;
+	height: 100%;
+	padding-top: 70px;
+	padding-bottom: 20px;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.cajaboton{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.btn{
+	margin: 10px;
+	padding: 0px;
+}
+.cajatitulos{
+	width: 85%;
+	height: 100%;
+	padding-top: 50px;
+	margin-top: 100px;
+	background: #F4F6F7;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.btn2{
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	background-color: ;
+	border: 0px;
+}
+.caja2{
+	width: 85%;
+	height: 100%;
+	background: gray;
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+} 
+.animacion{
+	background-color: #F4F6F7;
+	width: 100%;
+	height: 100%;
+	padding: 40px;
+	background-size:cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.jumbotron{
+	width: 85%;
+	height: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+.display-4{
+	font-family: TIMETOWORK;
+}
+.logoinsta{
+	width: 100px;
+	height: 100px;
+	color: #e4405f;
+	font-size: 55px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.logoface{
+	width: 100px;
+	height: 100px;
+	color: #3b5998;
+	font-size: 55px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.logoyoutube{
+	width: 100px;
+	height: 100px;
+	color: #cd201f;
+	font-size: 55px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.logotiktok{
+	width: 100px;
+	height: 100px;
+	color: #010101;
+	font-size: 55px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.row{
+	background-color: #F4F6F7;
+	background-size:cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
